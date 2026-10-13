@@ -21,10 +21,12 @@
 <img src="./assets/id-dashboard.svg?v=5" width="100%" alt="Baibhav's builder ID and public dashboard. 6 projects, 12 public repositories, 5 received repo stars. Snapshot: October 12, 2026." />
 
 <p align="center">
-<img src="./assets/connect-header.svg?v=8" width="100%" alt="Let's connect. Build something that matters. Ideas. Collaborations. Real impact." align="bottom" /><br>
-<img src="./assets/connect-linkedin-left.svg?v=8" width="42.25%" alt="" align="bottom" /><a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/"><img src="./assets/connect-linkedin-button.svg?v=8" width="53.9167%" alt="LinkedIn: connect and exchange ideas" align="bottom" /></a><img src="./assets/connect-linkedin-edge.svg?v=8" width="3.8333%" alt="" align="bottom" /><br>
-<img src="./assets/connect-portfolio-left.svg?v=8" width="42.25%" alt="" align="bottom" /><a href="https://YOUR-PORTFOLIO-WEBSITE.com"><img src="./assets/connect-portfolio-button.svg?v=8" width="53.9167%" alt="Portfolio" align="bottom" /></a><img src="./assets/connect-portfolio-edge.svg?v=8" width="3.8333%" alt="" align="bottom" /><br>
-<img src="./assets/connect-instagram-left.svg?v=8" width="42.25%" alt="" align="bottom" /><a href="https://www.instagram.com/YOUR-INSTAGRAM-USERNAME/"><img src="./assets/connect-instagram-button.svg?v=8" width="53.9167%" alt="Instagram" align="bottom" /></a><img src="./assets/connect-instagram-edge.svg?v=8" width="3.8333%" alt="" align="bottom" /><br>
-<img src="./assets/connect-email-left.svg?v=8" width="42.25%" alt="" align="bottom" /><a href="mailto:YOUR-EMAIL@example.com"><img src="./assets/connect-email-button.svg?v=8" width="53.9167%" alt="Email" align="bottom" /></a><img src="./assets/connect-email-edge.svg?v=8" width="3.8333%" alt="" align="bottom" /><br>
-<img src="./assets/connect-footer.svg?v=8" width="100%" alt="" align="bottom" />
+<img src="./assets/connect-banner.svg?v=9" width="100%" alt="Let's connect. Build something that matters. LinkedIn, portfolio, Instagram, and email." />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://YOUR-PORTFOLIO-WEBSITE.com">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://www.instagram.com/YOUR-INSTAGRAM-USERNAME/">Instagram</a> &nbsp;·&nbsp;
+  <a href="mailto:YOUR-EMAIL@example.com">Email</a>
 </p>
