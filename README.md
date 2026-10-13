@@ -28,12 +28,3 @@
 <a href="mailto:YOUR-EMAIL@example.com"><img src="./assets/connect-email.svg?v=7" width="100%" alt="Email" /></a>
 <img src="./assets/connect-footer.svg?v=7" width="100%" alt="" />
 </p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://YOUR-PORTFOLIO-WEBSITE.com">Portfolio</a> &nbsp;·&nbsp;
-  <a href="https://www.instagram.com/YOUR-INSTAGRAM-USERNAME/">Instagram</a> &nbsp;·&nbsp;
-  <a href="mailto:YOUR-EMAIL@example.com">Email</a>
-</p>
-
-<p align="center"><sub>Design with purpose. Build with intent.</sub></p>
