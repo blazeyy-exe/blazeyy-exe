@@ -20,11 +20,11 @@
 <!-- The numbers in this card are SAMPLE values. Update them in assets/id-dashboard.svg (see UPDATE.md). -->
 <img src="./assets/id-dashboard.svg?v=5" width="100%" alt="Baibhav's builder ID and public dashboard. 6 projects, 12 public repositories, 5 received repo stars. Snapshot: October 12, 2026." />
 
-<p>
-<img align="top" src="assets/connect-header.svg" width="100%" alt="Let's connect. Build something that matters.">
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/"><img align="top" src="assets/connect-linkedin.svg" width="100%" alt="LinkedIn"></a>
-<a href="https://github.com/blazeyy-exe"><img align="top" src="assets/connect-github.svg" width="100%" alt="GitHub"></a>
-<a href="https://www.instagram.com/YOUR-INSTAGRAM-USERNAME/"><img align="top" src="assets/connect-instagram.svg" width="100%" alt="Instagram"></a>
-<a href="https://YOUR-ESAHARA-WEBSITE.com"><img align="top" src="assets/connect-esahara.svg" width="100%" alt="eSahara"></a>
-<img align="top" src="assets/connect-footer.svg" width="100%" alt="Good people. Good ideas. Let's talk.">
+<p align="center">
+<img src="./assets/connect-header.svg?v=7" width="100%" alt="Let's connect. Build something that matters. Ideas. Collaborations. Real impact." />
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/"><img src="./assets/connect-linkedin.svg?v=7" width="100%" alt="LinkedIn: connect and exchange ideas" /></a>
+<a href="https://YOUR-PORTFOLIO-WEBSITE.com"><img src="./assets/connect-portfolio.svg?v=7" width="100%" alt="Portfolio" /></a>
+<a href="https://www.instagram.com/YOUR-INSTAGRAM-USERNAME/"><img src="./assets/connect-instagram.svg?v=7" width="100%" alt="Instagram" /></a>
+<a href="mailto:YOUR-EMAIL@example.com"><img src="./assets/connect-email.svg?v=7" width="100%" alt="Email" /></a>
+<img src="./assets/connect-footer.svg?v=7" width="100%" alt="" />
 </p>
