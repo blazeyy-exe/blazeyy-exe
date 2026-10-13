@@ -21,10 +21,10 @@
 <img src="./assets/id-dashboard.svg?v=5" width="100%" alt="Baibhav's builder ID and public dashboard. 6 projects, 12 public repositories, 5 received repo stars. Snapshot: October 12, 2026." />
 
 <p align="center">
-<img src="./assets/connect-header.svg?v=7" width="100%" alt="Let's connect. Build something that matters. Ideas. Collaborations. Real impact." />
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/"><img src="./assets/connect-linkedin.svg?v=7" width="100%" alt="LinkedIn: connect and exchange ideas" /></a>
-<a href="https://YOUR-PORTFOLIO-WEBSITE.com"><img src="./assets/connect-portfolio.svg?v=7" width="100%" alt="Portfolio" /></a>
-<a href="https://www.instagram.com/YOUR-INSTAGRAM-USERNAME/"><img src="./assets/connect-instagram.svg?v=7" width="100%" alt="Instagram" /></a>
-<a href="mailto:YOUR-EMAIL@example.com"><img src="./assets/connect-email.svg?v=7" width="100%" alt="Email" /></a>
-<img src="./assets/connect-footer.svg?v=7" width="100%" alt="" />
+<img src="./assets/connect-header.svg?v=8" width="100%" alt="Let's connect. Build something that matters. Ideas. Collaborations. Real impact." /><br>
+<img src="./assets/connect-linkedin-left.svg?v=8" width="42.25%" alt="" /><a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/"><img src="./assets/connect-linkedin-button.svg?v=8" width="53.9167%" alt="LinkedIn: connect and exchange ideas" /></a><img src="./assets/connect-linkedin-edge.svg?v=8" width="3.8333%" alt="" /><br>
+<img src="./assets/connect-portfolio-left.svg?v=8" width="42.25%" alt="" /><a href="https://YOUR-PORTFOLIO-WEBSITE.com"><img src="./assets/connect-portfolio-button.svg?v=8" width="53.9167%" alt="Portfolio" /></a><img src="./assets/connect-portfolio-edge.svg?v=8" width="3.8333%" alt="" /><br>
+<img src="./assets/connect-instagram-left.svg?v=8" width="42.25%" alt="" /><a href="https://www.instagram.com/YOUR-INSTAGRAM-USERNAME/"><img src="./assets/connect-instagram-button.svg?v=8" width="53.9167%" alt="Instagram" /></a><img src="./assets/connect-instagram-edge.svg?v=8" width="3.8333%" alt="" /><br>
+<img src="./assets/connect-email-left.svg?v=8" width="42.25%" alt="" /><a href="mailto:YOUR-EMAIL@example.com"><img src="./assets/connect-email-button.svg?v=8" width="53.9167%" alt="Email" /></a><img src="./assets/connect-email-edge.svg?v=8" width="3.8333%" alt="" /><br>
+<img src="./assets/connect-footer.svg?v=8" width="100%" alt="" />
 </p>
