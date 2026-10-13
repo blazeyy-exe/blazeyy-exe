@@ -3,7 +3,7 @@
   <img src="./assets/hero.svg?v=6" width="100%" alt="Hi, I'm Baibhav Shrestha — Founder & CEO of eSahara, Hetauda, Nepal. Building products that solve social problems." />
 </p>
 
-<img src="./assets/about-life.svg?v=5" width="100%" alt="Product and UI/UX design, full-stack development, community and impact. Why I build: design with purpose, founder of eSahara, and building trust into giving." />
+<img src="./assets/about-life.svg?v=6" width="100%" alt="Product and UI/UX design, full-stack development, community and impact. Recognition, certificates and learning, leadership and community." />
 
 <img src="./assets/stack.svg?v=6" width="100%" alt="My stack. Frontend development: React, Next.js, Tailwind CSS. Interactive experiences: Three.js, GSAP, Framer Motion. Tools and product design: GitHub, Vercel, Figma." />
 
