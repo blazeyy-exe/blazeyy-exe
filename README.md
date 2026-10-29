@@ -22,9 +22,7 @@
 <!-- The numbers in this card are SAMPLE values. Update them in assets/id-dashboard.svg (see UPDATE.md). -->
 <a href="#"><img style="pointer-events:none" src="./assets/id-dashboard.svg?v=5" width="100%" alt="Baibhav's builder ID and public dashboard. 6 projects, 12 public repositories, 5 received repo stars. Snapshot: October 12, 2026." /></a>
 
-<p align="center">
-<a href="#"><img style="pointer-events:none" src="./assets/connect-banner.svg?v=9" width="100%" alt="Let's connect. Build something that matters. LinkedIn, portfolio, Instagram, and email." /></a>
-</p>
+<table><tr><td width="50%"><img src="./assets/connect-banner.svg?v=9" width="100%" alt="Let's connect." /></td><td width="50%" valign="middle"><p><a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">LinkedIn</a></p><p><a href="https://YOUR-PORTFOLIO-WEBSITE.com">Portfolio</a></p><p><a href="https://www.instagram.com/YOUR-INSTAGRAM-USERNAME/">Instagram</a></p><p><a href="mailto:YOUR-EMAIL@example.com">Email</a></p></td></tr></table>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">LinkedIn</a> &nbsp;·&nbsp;
