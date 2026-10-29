@@ -12,16 +12,18 @@
   between them, otherwise they wrap onto separate rows.
   Replace each YOUR-...-WEBSITE.com link with the real project URL.
 -->
+<!-- Selected work hidden
 <p align="center">
 <img src="./assets/projects-header.svg?v=1" width="100%" alt="Selected work. Built to be used, shipped to matter." /><br>
 <a href="https://YOUR-ESAHARA-WEBSITE.com"><img src="./assets/projects-esahara.svg?v=1" width="34%" alt="eSahara: verified giving for people who care, where every donation actually lands. Next.js, Tailwind." /></a><a href="https://YOUR-ORBIT-LAB-WEBSITE.com"><img src="./assets/projects-orbit-lab.svg?v=1" width="31.6%" alt="Orbit Lab: immersive 3D scenes that react to scroll, cursor and curiosity. Three.js, GSAP." /></a><a href="https://YOUR-SHIPYARD-WEBSITE.com"><img src="./assets/projects-shipyard.svg?v=1" width="34%" alt="Shipyard: a Next.js starter for launching polished products in days, not weeks. Next.js, Vercel, Figma." /></a>
 </p>
+-->
 
 <!-- The numbers in this card are SAMPLE values. Update them in assets/id-dashboard.svg (see UPDATE.md). -->
 <img src="./assets/id-dashboard.svg?v=5" width="100%" alt="Baibhav's builder ID and public dashboard. 6 projects, 12 public repositories, 5 received repo stars. Snapshot: October 12, 2026." />
 
 <p align="center">
-<img src="./assets/connect-banner.svg?v=9" width="100%" alt="Let's connect. Build something that matters. LinkedIn, portfolio, Instagram, and email." />
+<img src="./source/connect.svg?v=9" width="100%" alt="Let's connect. Build something that matters. LinkedIn, portfolio, Instagram, and email." />
 </p>
 
 <p align="center">
