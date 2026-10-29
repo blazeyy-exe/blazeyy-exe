@@ -1,0 +1,124 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Baibhav Shrestha — Connect</title>
+  <style>
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      min-height: 100vh;
+      display: grid;
+      place-items: center;
+      padding: 24px;
+      background: #030712;
+      color: #f4f7ff;
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+    .card {
+      position: relative;
+      width: min(1200px, 100%);
+      aspect-ratio: 1200 / 640;
+      overflow: hidden;
+      isolation: isolate;
+      border-radius: 24px;
+      background: #070b16;
+    }
+    .background {
+      position: absolute;
+      inset: 0;
+      z-index: -1;
+      width: 100%;
+      height: 100%;
+      object-fit: fill;
+      pointer-events: none;
+    }
+    .links {
+      position: absolute;
+      left: 42.25%;
+      right: 5.1%;
+      top: 23.1%;
+      display: grid;
+      gap: 3.25%;
+    }
+    .link-card {
+      min-height: 86px;
+      display: flex;
+      align-items: center;
+      gap: 24px;
+      padding: 14px 24px;
+      color: #f4f7ff;
+      text-decoration: none;
+      background: rgba(16, 28, 48, .96);
+      border: 1px solid #294e79;
+      border-radius: 10px;
+      position: relative;
+      transition: transform .22s ease, border-color .22s ease, background .22s ease;
+    }
+    .link-card::before {
+      content: "";
+      position: absolute;
+      inset: 0 auto 0 0;
+      width: 4px;
+      border-radius: 10px 0 0 10px;
+      background: var(--accent);
+    }
+    .link-card:hover, .link-card:focus-visible {
+      transform: translateX(5px);
+      border-color: var(--accent);
+      background: #14243c;
+      outline: none;
+    }
+    .icon {
+      width: 32px;
+      height: 32px;
+      flex: 0 0 32px;
+      color: var(--accent);
+      display: grid;
+      place-items: center;
+    }
+    .icon svg { width: 27px; height: 27px; fill: none; stroke: currentColor; stroke-width: 1.8; stroke-linecap: round; stroke-linejoin: round; }
+    .icon .filled { fill: currentColor; stroke: none; }
+    .copy { min-width: 0; display: grid; gap: 4px; }
+    .name { font-size: clamp(16px, 2.6vw, 27px); line-height: 1.05; font-weight: 750; letter-spacing: -.035em; }
+    .detail { color: #8facd4; font: 11px/1.4 ui-monospace, SFMono-Regular, Menlo, monospace; }
+    .arrow { margin-left: auto; color: var(--accent); font-size: 25px; transition: transform .2s ease; }
+    .link-card:hover .arrow { transform: translateX(5px); }
+    @media (max-width: 650px) {
+      body { padding: 10px; }
+      .card { aspect-ratio: auto; min-height: 620px; }
+      .links { left: 6%; right: 6%; top: 31%; gap: 12px; }
+      .link-card { min-height: 76px; gap: 15px; padding: 12px 16px; }
+      .name { font-size: 20px; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      *, *::before, *::after { transition-duration: .01ms !important; }
+    }
+  </style>
+</head>
+<body>
+  <main class="card" aria-label="Baibhav Shrestha contact links">
+    <!-- Keep connect-background.svg in the same folder as this HTML file. -->
+    <img class="background" src="connect-background.svg" alt="" />
+    <nav class="links" aria-label="Connect with Baibhav">
+      <a class="link-card" style="--accent:#247bff" href="https://www.linkedin.com/" target="_blank" rel="noopener noreferrer">
+        <span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path class="filled" d="M4.7 3.2a1.9 1.9 0 1 0 0 3.8 1.9 1.9 0 0 0 0-3.8ZM3 8.5h3.4V21H3zM8.5 8.5h3.3v1.7h.1c.5-.9 1.6-2 3.4-2 3.6 0 4.3 2.4 4.3 5.4V21h-3.5v-6.6c0-1.6 0-3.5-2.1-3.5s-2.4 1.6-2.4 3.4V21H8.5z"/></svg></span>
+        <span class="copy"><span class="name">LinkedIn</span><span class="detail">Connect &amp; exchange ideas</span></span><span class="arrow" aria-hidden="true">→</span>
+      </a>
+      <a class="link-card" style="--accent:#ff354f" href="https://baibhavstha.com.np/" target="_blank" rel="noopener noreferrer">
+        <span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c2.6 2.4 4 5.5 4 9s-1.4 6.6-4 9c-2.6-2.4-4-5.5-4-9s1.4-6.6 4-9Z"/></svg></span>
+        <span class="copy"><span class="name">Portfolio</span><span class="detail">baibhavstha.com.np</span></span><span class="arrow" aria-hidden="true">→</span>
+      </a>
+      <a class="link-card" style="--accent:#ff354f" href="https://www.instagram.com/baibhavbits/" target="_blank" rel="noopener noreferrer">
+        <span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.7" r=".8" class="filled"/></svg></span>
+        <span class="copy"><span class="name">Instagram</span><span class="detail">@baibhavbits</span></span><span class="arrow" aria-hidden="true">→</span>
+      </a>
+      <a class="link-card" style="--accent:#247bff" href="mailto:YOUR_EMAIL_ADDRESS">
+        <span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24"><rect x="3" y="5" width="18" height="14" rx="2.5"/><path d="m3.5 7 8.5 6 8.5-6"/></svg></span>
+        <span class="copy"><span class="name">Email</span><span class="detail">YOUR_EMAIL_ADDRESS</span></span><span class="arrow" aria-hidden="true">→</span>
+      </a>
+    </nav>
+  </main>
+</body>
+</html>

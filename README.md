@@ -23,7 +23,7 @@
 <img src="./assets/id-dashboard.svg?v=5" width="100%" alt="Baibhav's builder ID and public dashboard. 6 projects, 12 public repositories, 5 received repo stars. Snapshot: October 12, 2026." />
 
 <p align="center">
-<img src="./source/connect.svg?v=9" width="100%" alt="Let's connect. Build something that matters. LinkedIn, portfolio, Instagram, and email." />
+<img src="./assets/connect-banner.svg?v=9" width="100%" alt="Let's connect. Build something that matters. LinkedIn, portfolio, Instagram, and email." />
 </p>
 
 <p align="center">
