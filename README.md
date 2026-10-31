@@ -19,8 +19,7 @@
 </p>
 -->
 
-<!-- The numbers in this card are SAMPLE values. Update them in assets/id-dashboard.svg (see UPDATE.md). -->
-<a href="#"><img style="pointer-events:none" src="./assets/id-dashboard.svg?v=5" width="100%" alt="Baibhav's builder ID and public dashboard. 6 projects, 12 public repositories, 5 received repo stars. Snapshot: October 12, 2026." /></a>
+
 
 
 
